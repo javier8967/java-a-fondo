@@ -35,7 +35,7 @@ public class main {
 	//System.out.println("Fecha 1 = "+f1);
 	System.out.println("Fecha 2 = "+f2);
 	
-	System.out.println("ingrese dias a sumar");
+	System.out.println("ingrese dias que va a  sumar");
 	int diasSum= leer.nextInt();
 	
 	f2.addDias(diasSum);
