@@ -24,7 +24,7 @@ public class Fecha {
 		
 		String sDia= s.substring(0,pos1);
 		dia=Integer.parseInt(sDia);
-		
+		 
 		
 		
 		String sMes= s.substring(pos1+1,pos2);
